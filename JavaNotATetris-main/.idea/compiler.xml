@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Leypunskiy_Maksim_208_HW5" />
+        <module name="faketetris" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Leypunskiy_Maksim_208_HW5" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

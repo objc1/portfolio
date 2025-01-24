@@ -1,8 +1,8 @@
-module hse.java.leypunskiy_maksim_208_hw5 {
+module hse.java.faketetris {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens hse.java.leypunskiyMaksim208hw5 to javafx.fxml;
-    exports hse.java.leypunskiyMaksim208hw5;
+    opens hse.java.faketetris to javafx.fxml;
+    exports hse.java.faketetris;
 }

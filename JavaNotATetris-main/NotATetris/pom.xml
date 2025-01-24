@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hse.java</groupId>
-    <artifactId>Leypunskiy_Maksim_208_HW5</artifactId>
+    <artifactId>faketetris</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Leypunskiy_Maksim_208_HW5</name>
+    <name>faketetris</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -52,7 +52,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                hse.java.leypunskiyMaksim208hw5.MainApplication
+                                hse.java.faketetris.MainApplication
                             </mainClass>
                         </manifest>
                     </archive>
@@ -79,7 +79,7 @@
                             <finalName>mainFX</finalName>
                             <outputDirectory>.</outputDirectory>
                             <mainClass>
-                                hse.java.leypunskiyMaksim208hw5.MainApplication
+                                hse.java.faketetris.MainApplication
                             </mainClass>
                         </configuration>
                     </execution>
